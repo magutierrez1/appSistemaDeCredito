@@ -1,0 +1,27 @@
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe.config
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csprojResolveAssemblyReference.cache
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Properties.Resources.resources
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.GenerateResource.Cache
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.pdb
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\Oracle.DataAccess.dll
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.exe
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.pdb
+C:\Users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.IniciarSesion.resources
+C:\Users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroEstudiante.resources
+C:\Users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.VistaPrincipal.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe.config
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.exe
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.pdb
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.pdb
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\Oracle.DataAccess.dll
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csprojResolveAssemblyReference.cache
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.IniciarSesion.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroEstudiante.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Properties.Resources.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.VistaPrincipal.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.GenerateResource.Cache
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroCodeudor.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.opciones.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistrarPrestamo.resources
